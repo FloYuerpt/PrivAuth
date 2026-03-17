@@ -1,4 +1,4 @@
-# PrivAuth - Pairing-Based Multi-Attribute Batch Authentication
+# PrivAuth - A Lightweight Multi-Attribute Batch Authentication Protocol with Anonymity and Traceability 
 
 ## Overview
 
