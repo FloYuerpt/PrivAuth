@@ -262,7 +262,7 @@ require (
 
 ## References
 
-Paper: *"PrivAuth: A Lightweight Multi-Attribute Batch Authentication Protocol with Anonymity and Traceability"*
+Paper: *"PrivAuth: Fast Attribute-Based Credential Authentication with Twofold Privacy and Constant-Time Revocation"*
 
 ## License
 
